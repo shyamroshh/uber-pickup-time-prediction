@@ -54,3 +54,20 @@ This project follows the complete machine learning pipeline:
 * Output: Predicted Uber pickup time
 
 The model demonstrates strong predictive capability using the available dataset.
+
+## 📈 Future Improvements
+
+* Try advanced models (Random Forest, XGBoost, Gradient Boosting)
+* Hyperparameter tuning
+* Add real-time data integration
+* Deploy as a web application (Flask / FastAPI)
+* Create a dashboard for live predictions
+
+---
+
+## 📚 Key Takeaway
+
+This project demonstrates the end-to-end machine learning workflow — from raw data exploration to model evaluation — showcasing practical application of regression techniques in real-world ride-hailing prediction systems.
+
+## Author
+SHYAM ROSH NK
